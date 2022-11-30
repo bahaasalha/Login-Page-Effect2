@@ -22,29 +22,18 @@
 
 ## v2
 
-You can see [Output](https://loginpage-v2-ayushsleeping.netlify.app/) here !
+You can see [Output](https://login-page-bahaasalha.netlify.app/) here !
 
 <br>
 
- ![alt text](https://github.com/ayush-sleeping/Login-Page/blob/main/v2/Output.png)
+ ![Output](https://user-images.githubusercontent.com/91798754/204904758-bba88dc6-7182-45f9-845b-60c8a19ef9b3.png)
+
  
  <br>
  
-
-## v1
-
-You can see [Output](https://login-page-v1-ayushsleeping.netlify.app/) here !
-
-<br>
-
- ![alt text](https://github.com/ayush-sleeping/Login-Page/blob/main/v1/Final%20Output.png)
- 
- <br>
- 
-
  
  <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by Eng.Bahaa Salha some of the repositories!
 
 </div>
