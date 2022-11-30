@@ -2,11 +2,6 @@
 **This repo. contain some "Login page" , That I have made during learning and practicing HTML & CSS.**
 <br>
 
-### Table of content:
-
-
-* [v1](#v1)
-* [v2](#v2)
 
 <br>
 
